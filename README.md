@@ -133,3 +133,7 @@ que posso existir no seu projeto.
         │   │   ├── __init__.py
         │   │   └── services.cpython-312.pyc
         │   └── services.py
+
+## Autor
+
+- [@Rodrigo-Kelven](https://github.com/Rodrigo-Kelven)
